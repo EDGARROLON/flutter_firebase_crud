@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3547833271",
+    "project_id": "miapp5afirebase-ede9a",
+    "storage_bucket": "miapp5afirebase-ede9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3547833271:android:52e78002c0d98d07d1fe32",
+        "android_client_info": {
+          "package_name": "com.edgardonaldo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRbcRndhvxxoRmsXVtm9FIA5LrYztPts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3547833271:android:874f0bc8aea4a0b7d1fe32",
+        "android_client_info": {
+          "package_name": "com.example.tuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRbcRndhvxxoRmsXVtm9FIA5LrYztPts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
